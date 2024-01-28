@@ -12,8 +12,8 @@ import javax.swing.Timer;
 
 public class Panel extends JPanel {
     private final int DELAY = 16;
-    private ArrayList<Ball> listOfBalls;
-    private ArrayList<Ball.Speed> listOfSpeed;
+    private final ArrayList<Ball> listOfBalls;
+    private final ArrayList<Ball.Speed> listOfSpeed;
     private int size = 20;
     private Timer timer;
 
