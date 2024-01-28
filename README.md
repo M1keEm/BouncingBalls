@@ -1,0 +1,2 @@
+A GUI App in java. Works by locating the mouse, (if it's inside the app window, you can draw circles; already drawn ones start moving) and using mouse listeneres to establish size and coordinates of the balls soon to be drawn. 
+The programme saves the coordinates of the collisions of various balls to a text file, and by using the second panel and window (PanelTwo, WindowTwo) reads them from the text file and draws the circles in position pointed to by the coordinates.
