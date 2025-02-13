@@ -35,10 +35,10 @@ A Java Swing application that simulates bouncing balls and records their collisi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1](screenshots/bouncing-balls1.png)  
 *Bouncing balls simulation in action.*
 
-![Screenshot 2](screenshots/screenshot2.png)  
+![Screenshot 2](screenshots/bouncing-balls2.png)  
 *Stationary balls displayed from collision data.*
 
 ---
